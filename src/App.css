@@ -1,0 +1,30 @@
+body{
+
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+
+  height: 100vh;
+  width: 100vw;
+  background-color: tomato;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.card{
+
+  width: 300px;
+  height: 300px;
+  background-color: blueviolet;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.quote{
+  display: block;
+  margin-top: 60px;
+}
